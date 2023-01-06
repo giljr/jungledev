@@ -5,7 +5,7 @@
 Hi, this is all about [Django](https://www.djangoproject.com/)! 
 Meet Django by Doing a Real Blog Right Now!
 
-In this repository I will offer all my files while I learn Python from scratch through self-study, mainly using VSCode Editor.
+In this repository I will offer all my files while I learn Python from scratch through self-study, mainly using [VSCode Editor](https://code.visualstudio.com/	).
 
 Follow this series:
 
@@ -35,7 +35,7 @@ Or my old Atlassian,Inc. Repo: https://bitbucket.org/gilj3/
 Where I Embrace Playful Experimentation, offering you an scaffolding opportunities to Code, Hack,
 and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me some feedback_ :blush:
 
-In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awesome, try it yourself! 
+In 2022: :point_right: This article? [Django MTV In VS Code](https://medium.com/jungletronics/django-mtv-in-vs-code-a5953b09a4fd) is awesome, try it yourself! 
 
 ### How To Create A Blog in VS Code Series:
 
