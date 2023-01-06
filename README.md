@@ -45,11 +45,11 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [Part III](https://medium.com/jungletronics/a-django-blog-in-vs-code-c090eef59849) #DjangoSeries - [**A Django Blog In VS Code — Bootstrap, Tailwind CSS, Template Inheritance**](https://medium.com/jungletronics/a-django-blog-in-vs-code-c090eef59849)
 
-[Part IV](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a) #DjangoSeries - [**AA Django Blog In VS Code — Forms & Validations**](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a)
+[Part IV](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a) #DjangoSeries - [**A Django Blog In VS Code — Forms & Validations**](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a)
 
 [Part V](https://medium.com/jungletronics/a-django-blog-in-vs-code-368b22a981ea) #DjangoSeries - [**A Django Blog In VS Code — Authentications, Login & Logout**](https://medium.com/jungletronics/a-django-blog-in-vs-code-368b22a981ea)
 
-[Part VI](https://medium.com/jungletronics/a-django-blog-in-vs-code-6dee94cec9c0) #DDjangoSeries - [**A Django Blog In VS Code — Upload Profile Picture**](https://medium.com/jungletronics/a-django-blog-in-vs-code-6dee94cec9c0)
+[Part VI](https://medium.com/jungletronics/a-django-blog-in-vs-code-6dee94cec9c0) #DjangoSeries - [**A Django Blog In VS Code — Upload Profile Picture**](https://medium.com/jungletronics/a-django-blog-in-vs-code-6dee94cec9c0)
 
 [Part VII](https://medium.com/jungletronics/a-django-blog-in-vs-code-8449d3e1754d) #DjangoSeries - [**A Django Blog In VS Code — Update & Resize Picture**](https://medium.com/jungletronics/a-django-blog-in-vs-code-8449d3e1754d)
 
